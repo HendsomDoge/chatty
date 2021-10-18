@@ -1,6 +1,6 @@
 # SogeChat
 
-![SogeChat Picture](https://hendsomdoge.netlify.app/images/chatty.JPG "SogeBook")
+![SogeChat Picture](https://hendsomdoge.netlify.app/images/sogechat.JPG "SogeChat")
 
 ## SogeChat is an Overall Improvement of SogeCord, it has images, dms group chats and much more. This app is a little buggy tho
 
